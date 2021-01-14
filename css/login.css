@@ -1,0 +1,90 @@
+*{
+
+    margin: 0px;
+}
+
+body{
+
+    background : url(../img/apple-cellphone-connectivity-1631432.jpg)no-repeat;
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+.container{
+
+width: 1140px;
+margin: 0px auto;
+background-color: cyan;
+height:0px;
+
+}
+
+
+.container{
+  width:440px;
+  box-shadow: 0 0 1rem 0 rgba(0,0,0,.2);
+  margin: 5% auto;
+}
+
+
+
+.login-section{
+
+  box-shadow: 0 0 1rem 0 rgba(0,0,0,.2);
+	background-color: rgba(255,255,255,.15);
+	padding: 50px;
+
+  /*border-radius: 5px;*/
+
+
+}
+
+.login-section img{
+     
+     margin: 20px auto;
+     display: block;
+
+}
+
+.login-section h2{
+
+	text-align: center;
+	font-size: 40px;
+
+}
+
+.form-control{
+
+   width:100%;
+   height: 32px;
+   padding: 5px;
+   margin-bottom: 15px;
+
+}
+
+.btn{
+
+	  background: darkred;
+	  padding: 8px 16px;
+	  color: #fff;
+    margin: 0 auto;
+    display: block;
+    text-transform: uppercase;
+    border: none;
+    box-shadow: 2px 4px 2px #673AB7;
+    transition: 0.8s ease;
+    -webkit-transition: 0.8s ease;
+
+
+}
+
+.btn:hover{
+	box-shadow: 2px 4px 2px #673AB7
+}
+
+.link{
+  
+	text-decoration: none;
+}
